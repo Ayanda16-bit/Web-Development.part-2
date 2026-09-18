@@ -101,4 +101,119 @@ Created the Home page.
 
 Planned the website pages and product information.
 
-iStock (n.d.) Cosmetic skin care products on green leaves [Photograph]. Available at: iStock image (Accessed: 14 August 2026). References GitHub (2026) GitHub Documentation. Available at: https://docs.github.com/ (Accessed: 14 August 2026). MDN Web Docs (2026) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 14 August 2026). W3Schools (2026) HTML Tutorial. Available at: https://www.w3schools.com/html/ (Accessed: 14 August 2026). W3Schools (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 14 August 2026).
+iStock (n.d.) Cosmetic skin care products on green leaves [Photograph]. Available at: iStock image (Accessed: 14 August 2026). References GitHub (2026) GitHub Documentation. Available at: https://docs.github.com/ (Accessed: 14 August 2026). MDN Web Docs (2026) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 14 August 2026). W3Schools (2026) HTML Tutorial. Available at: https://www.w3schools.com/html/ # Natures' Garden 🌿
+
+## About the Website
+
+Natures' Garden is a nature-inspired website created for a business that provides natural and organic products designed to support healthier lifestyles.
+
+The website provides information about the business, its products, customer reviews, and ways to contact the business.
+
+## Website Pages
+
+The website includes the following pages:
+
+- **Home** - Introduction to Natures' Garden and an overview of the products.
+- **About Us** - Information about the business, mission, vision, and values.
+- **Products** - Displays the available products, descriptions, images, and prices.
+- **Reviews** - Displays customer feedback and ratings.
+- **Contact Us** - Provides contact information and an enquiry form.
+- **Enquiries** - An additional enquiry page from the original website structure.
+
+## Products
+
+The website currently features:
+
+- 🌿 Herbal Tea
+- 🌸 Herbal Gummies
+- 🍃 Collagen Powder
+
+## Design
+
+The website uses a natural and calming color palette inspired by nature:
+
+- Deep Forest Green
+- Sage Green
+- Cream
+- Warm Beige
+- Soft Brown
+- Eucalyptus Green
+
+The typography includes:
+
+- **Garamond** for headings
+- **Calibri** for body text
+- **Century Gothic** for buttons
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (planned for future development)
+- Visual Studio Code
+- GitHub
+
+## Website Features
+
+- Nature-inspired design
+- Navigation menu
+- Product information
+- Customer reviews
+- Contact form
+- Search bar interface
+- Call-to-action buttons
+- Falling nature-themed elements
+- Product images
+- Consistent styling across pages
+
+## Project Structure
+
+```text
+Natures-Garden/
+│
+├── Home.html
+├── About.html
+├── Products.html
+├── Reviews.html
+├── Contact.html
+├── Enquires.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+    ├── logo.png
+    ├── home-background.jpg
+    ├── tea.jpg
+    ├── gummies.jpg## Changelog
+
+### Version 1.1 - Part 1 Feedback Updates
+- Updated the website structure based on feedback received in Part 1.
+- Improved the navigation menu to provide consistent links across the website.
+- Added a dedicated **Customer Reviews** page.
+- Updated the Products page to include product images, descriptions, and prices.
+- Improved the About Us page by separating the mission, vision, and values sections.
+- Added a Contact Us page with contact information and an enquiry form.
+- Updated the website branding to consistently use **Natures' Garden**.
+- Corrected page and stylesheet links.
+- Improved the overall layout and styling using the approved nature-inspired color palette.
+- Added clearer call-to-action buttons such as **View Products**, **Learn More**, and **Contact Us**.
+
+### Version 1.2 - New Updates
+- Added a search bar to the website navigation.
+- Added nature-themed falling leaves and flowers for visual design.
+- Added the Natures' Garden logo to the navigation.
+- Improved product card styling and presentation.
+- Added hover effects to buttons and product sections.
+- Improved the overall consistency of fonts, colors, spacing, and page design.
+- Added additional customer review content.
+- Updated the footer to include the 2026 copyright notice.
+
+### Future Updates
+- Add JavaScript functionality to make the search feature functional.
+- Improve responsive design for smaller screens and mobile devices.
+- Add further interactive features where required.
+    └── collagen.jpg(Accessed: 14 August 2026). W3Schools (2026) CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 14 August 2026).
